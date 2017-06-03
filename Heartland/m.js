@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 I'll Never Need Anyone More (Than I Need You Tonight).mp3";		
+f[2]	= "02 Lover.mp3";		
+f[3]	= "03 Don't Stop the Music.mp3";		
+f[4]	= "04 He Can't Love You.mp3";		
+f[5]	= "05 Working Again.mp3";		
+f[6]	= "06 All I Ever Wanted.mp3";		
+f[7]	= "07 Say Goodbye.mp3";		
+f[8]	= "08 Hearts on Fire.mp3";		
+f[9]	= "09 Voodoo.mp3";		
+f[10]	= "10 Carolyn.mp3";		
+f[11]	= "11 Save a Little Piece for Me.mp3";		
+f[12]	= "12 He Can't Love You [-][Live].mp3";		
+f[13]	= "13 Lover [-][Live].mp3";		
